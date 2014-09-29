@@ -1,0 +1,6 @@
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\bin\Debug\1DV402.S2.L03A.exe.config
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\bin\Debug\1DV402.S2.L03A.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\bin\Debug\1DV402.S2.L03A.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\obj\Debug\1DV402.S2.L03A.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\obj\Debug\1DV402.S2.L03A.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\steg2\2-3-a-geometriska-figurer\1DV402.S2.L03A\1DV402.S2.L03A\obj\Debug\1DV402.S2.L03A.pdb
